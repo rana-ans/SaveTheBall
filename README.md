@@ -1,2 +1,4 @@
 # SaveTheBall
-simple save the ball game/bouncing ball with a silder written in Python
+Language: Python
+
+Simple Save the Bouncing Ball Game with a Slider to save the Ball from going under.
